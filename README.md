@@ -1,3 +1,5 @@
 # NodeExpressBoiler
 
-## License (LICENSE)
+## License
+
+[MIT License]((LICENSE))
