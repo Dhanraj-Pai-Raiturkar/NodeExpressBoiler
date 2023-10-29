@@ -1,1 +1,3 @@
 # NodeExpressBoiler
+
+## License (LICENSE)
